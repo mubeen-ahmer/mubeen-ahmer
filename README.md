@@ -52,7 +52,7 @@ CS undergrad at FAST NUCES, 4th semester. I work across the full stack — from 
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mubeen-ahmer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-trophies.vercel.app/?username=mubeen-ahmer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 ---
