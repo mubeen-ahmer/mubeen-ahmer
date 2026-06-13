@@ -39,12 +39,6 @@ CS undergrad at FAST NUCES, 4th semester. I work across the full stack — from 
 | 📊 | **[StatSphere](https://github.com/mubeen-ahmer/stats-sphere)** — Insurance data analysis app. MLR, normality testing, confidence intervals. R² ≈ 0.75 | Python · Streamlit · Pandas · SciPy | ✅ Done |
 | 💻 | **[NEXUS OS](https://github.com/mubeen-ahmer/NEXUS-OS-Operating-System-Simulator)** - A Linux-based OS simulator written in C++ that demonstrates core operating system concepts through real process management, IPC, scheduling, and synchronization | C++ . shell . C | ✅ Done |
 | 🤖 | **[AI Traffic Control](https://github.com/mubeen-ahmer/Smart-City-Traffic-Emergency-Response-AI-System)** - A modular AI pipeline that processes city traffic requests and returns routing, signal coordination, and policy decisions based on request type. | Python | ✅ Done |
-<<<<<<< HEAD
-
-=======
-| 🧑‍💻 | **[ERDS Lite](https://github.com/mubeen-ahmer/Emergency-dispatched-system-)** - An emergency dispatched system design in c++ which finds best route between ambulance and incident. It uses almost all structures of DS and their implmentation too | C++ | ✅ Done |
-| 🔧 | *Your next project* | — | 🔜 |
->>>>>>> a3b67623f583e6f5a58522958075f211b177c07d
 
 ---
 
