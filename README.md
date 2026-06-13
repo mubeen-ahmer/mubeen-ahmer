@@ -36,10 +36,10 @@ CS undergrad at FAST NUCES, 4th semester. I work across the full stack — from 
 
 | | Project | Stack | Status |
 |---|---|---|---|
-| 📊 | **[StatSphere](https://github.com/mubeen-ahmer)** — Insurance data analysis app. MLR, normality testing, confidence intervals. R² ≈ 0.75 | Python · Streamlit · Pandas · SciPy | ✅ Done |
+| 📊 | **[StatSphere](https://github.com/mubeen-ahmer/stats-sphere)** — Insurance data analysis app. MLR, normality testing, confidence intervals. R² ≈ 0.75 | Python · Streamlit · Pandas · SciPy | ✅ Done |
 | 💻 | **[NEXUS OS](https://github.com/mubeen-ahmer/NEXUS-OS-Operating-System-Simulator)** - A Linux-based OS simulator written in C++ that demonstrates core operating system concepts through real process management, IPC, scheduling, and synchronization | C++ . shell . C | ✅ Done |
 | 🤖 | **[AI Traffic Control](https://github.com/mubeen-ahmer/Smart-City-Traffic-Emergency-Response-AI-System)** - A modular AI pipeline that processes city traffic requests and returns routing, signal coordination, and policy decisions based on request type. | Python | ✅ Done |
-| 🔧 | *Your next project* | — | 🔜 |
+
 
 ---
 
@@ -79,8 +79,6 @@ CS undergrad at FAST NUCES, 4th semester. I work across the full stack — from 
 
 ```
 4th Semester  ·  FAST NUCES CFD  ·  Pakistan
-Studying   →  AI · OS · Databases · Software Design
-Building   →  ...
 ```
 
 ---
