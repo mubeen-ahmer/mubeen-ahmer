@@ -12,9 +12,18 @@
 
 ---
 
-## About
+## About Me
 
-CS undergrad at FAST NUCES, 4th semester. I work across the full stack — from writing neural nets in NumPy to building production web apps with Next.js and Supabase. I care about clean code, real projects, and shipping things.
+I am a Computer Science undergraduate at FAST NUCES, currently in my 4th semester. I have been working with C++ for over 3 years, with strong command over Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA).
+
+I have solid experience in full-stack web development using modern technologies, including React and Next.js for frontend development and Node.js for backend development. I also have strong proficiency in JavaScript and building scalable, secure web applications.
+
+I have hands-on experience with Supabase, including authentication, Row Level Security (RLS), Edge Functions, cron jobs, and file storage. Recently, I completed a full-stack freelance project, applying these concepts in a production-like environment.
+
+Over the past 6 months, I transitioned my focus toward Python and Artificial Intelligence, starting from basic Artificial Neural Networks (ANNs) to building data analysis and prediction systems. One of my notable projects in this area is STATSphere, an analytics-based intelligent system.**
+
+Currently, I am deeply interested in learning and building LLM-based systems and RAG (Retrieval-Augmented Generation) AI agents using modern AI tools and workflows.
+
 
 ---
 
