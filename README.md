@@ -14,16 +14,19 @@
 
 ## About Me
 
-I am a Computer Science undergraduate at FAST NUCES, currently in my 4th semester. I have been working with C++ for over 3 years, with strong command over Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA).
+I am a Computer Science undergraduate at FAST NUCES, currently in my 4th semester. I have been working with C++ for over 3 years, with a strong command of Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA).
 
-I have solid experience in full-stack web development using modern technologies, including React and Next.js for frontend development and Node.js for backend development. I also have strong proficiency in JavaScript and building scalable, secure web applications.
+I have solid experience in full-stack web development using modern technologies, including React and Next.js for frontend development and Node.js for backend development. I also have strong proficiency in JavaScript and building scalable and secure web applications.
+
+Beyond traditional web applications, I have experience developing desktop applications using Electron and building Progressive Web Apps (PWAs) using technologies such as manifest.json to create installable, app-like web experiences across platforms.
 
 I have hands-on experience with Supabase, including authentication, Row Level Security (RLS), Edge Functions, cron jobs, and file storage. Recently, I completed a full-stack freelance project, applying these concepts in a production-like environment.
+
+Additionally, I have knowledge and practical experience with Content Management Systems (CMS) and have recently developed one as part of my work. I have also built complete admin dashboard solutions featuring real-time analytics, graph visualization, automated calculations, summaries, and data management workflows.
 
 Over the past 6 months, I transitioned my focus toward Python and Artificial Intelligence, starting from basic Artificial Neural Networks (ANNs) to building data analysis and prediction systems. One of my notable projects in this area is STATSphere, an analytics-based intelligent system.
 
 Currently, I am deeply interested in learning and building LLM-based systems and RAG (Retrieval-Augmented Generation) AI agents using modern AI tools and workflows.
-
 
 ---
 
@@ -31,7 +34,7 @@ Currently, I am deeply interested in learning and building LLM-based systems and
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,postgres,mysql,supabase,firebase,git,vercel,linux,vscode&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nextjs,nodejs,electron,postgres,mysql,supabase,firebase,git,github,vercel,linux,vscode&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
@@ -45,10 +48,16 @@ Currently, I am deeply interested in learning and building LLM-based systems and
 
 | | Project | Stack | Status |
 |---|---|---|---|
-| 💪 | **[Gym membership manager](https://github.com/mubeen-ahmer/gym-membership-manager)** — A private gym management system for internal use by gym owners and admins, with offline-first support and barcode-based attendance tracking. | JavaScript · PLpgSQL · CSS · HTML | ✅ Done |
+| 📔 | **[Marking System](https://github.com/mubeen-ahmer/marking-portal)** - A full-stack academic platform with separate portals for Students, Teachers, and Admins — featuring online quizzes with anti-cheat protection, result publishing, and a shared resource library. | React · PostgreSQL | ✅ Done |
+| 🤖 | **[AI Traffic Control](https://github.com/mubeen-ahmer/Smart-City-Traffic-Emergency-Response-AI-System)** - A modular AI pipeline that processes city traffic requests and returns routing, signal coordination, and policy decisions based on request type. | Python | ✅ Done |
+| 💪 | **[Gym membership manager](https://github.com/mubeen-ahmer/gym-membership-manager)** — A private gym management system for internal use by gym owners and admins, with offline-first support and barcode-based attendance tracking. | React · Tailwind CSS · PostgreSQL | ✅ Done |
 | 📊 | **[StatSphere](https://github.com/mubeen-ahmer/stats-sphere)** — Insurance data analysis app. MLR, normality testing, confidence intervals. R² ≈ 0.75 | Python · Streamlit · Pandas · SciPy | ✅ Done |
 | 💻 | **[NEXUS OS](https://github.com/mubeen-ahmer/NEXUS-OS-Operating-System-Simulator)** - A Linux-based OS simulator written in C++ that demonstrates core operating system concepts through real process management, IPC, scheduling, and synchronization | C++ . shell . C | ✅ Done |
-| 🤖 | **[AI Traffic Control](https://github.com/mubeen-ahmer/Smart-City-Traffic-Emergency-Response-AI-System)** - A modular AI pipeline that processes city traffic requests and returns routing, signal coordination, and policy decisions based on request type. | Python | ✅ Done |
+
+
+---
+
+> **More projects can be found in [repository tab](https://github.com/mubeen-ahmer?tab=repositories)**
 
 ---
 
@@ -99,6 +108,11 @@ Currently, I am deeply interested in learning and building LLM-based systems and
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mubeenahmerbali@gmail.com)
 &nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/mubeen-ahmer)
+&nbsp;
+<a href="https://mubeenahmer.vercel.app" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="48" alt="Portfolio"/>
+</a>
+
 
 <br/>
 
