@@ -49,10 +49,12 @@ Currently, I am deeply interested in learning and building LLM-based systems and
 | | Project | Stack | Status |
 |---|---|---|---|
 | 📔 | **[Marking System](https://github.com/mubeen-ahmer/marking-portal)** - A full-stack academic platform with separate portals for Students, Teachers, and Admins — featuring online quizzes with anti-cheat protection, result publishing, and a shared resource library. | React · PostgreSQL | ✅ Done |
+| 💻 | **[NEXUS OS](https://github.com/mubeen-ahmer/NEXUS-OS-Operating-System-Simulator)** - A Linux-based OS simulator written in C++ that demonstrates core operating system concepts through real process management, IPC, scheduling, and synchronization | C++ . shell . C | ✅ Done |
+| 🕹️ | **[Atari Breakout — x86 Assembly Game](https://github.com/mubeen-ahmer/Atari-Breakout-x86-Assembly)** - A fully playable Atari Breakout arcade game written in x86 Assembly, running in real-mode DOS — no OS APIs, no libraries, direct hardware access only. | x86 Assembly | ✅ Done |
 | 🤖 | **[AI Traffic Control](https://github.com/mubeen-ahmer/Smart-City-Traffic-Emergency-Response-AI-System)** - A modular AI pipeline that processes city traffic requests and returns routing, signal coordination, and policy decisions based on request type. | Python | ✅ Done |
 | 💪 | **[Gym membership manager](https://github.com/mubeen-ahmer/gym-membership-manager)** — A private gym management system for internal use by gym owners and admins, with offline-first support and barcode-based attendance tracking. | React · Tailwind CSS · PostgreSQL | ✅ Done |
 | 📊 | **[StatSphere](https://github.com/mubeen-ahmer/stats-sphere)** — Insurance data analysis app. MLR, normality testing, confidence intervals. R² ≈ 0.75 | Python · Streamlit · Pandas · SciPy | ✅ Done |
-| 💻 | **[NEXUS OS](https://github.com/mubeen-ahmer/NEXUS-OS-Operating-System-Simulator)** - A Linux-based OS simulator written in C++ that demonstrates core operating system concepts through real process management, IPC, scheduling, and synchronization | C++ . shell . C | ✅ Done |
+
 
 
 ---
