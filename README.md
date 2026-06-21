@@ -59,7 +59,7 @@ Currently, I am deeply interested in learning and building LLM-based systems and
 
 ---
 
-> **More projects can be found in [repository tab](https://github.com/mubeen-ahmer?tab=repositories)**
+> **More projects can be found in [repositories tab](https://github.com/mubeen-ahmer?tab=repositories)**
 
 ---
 
