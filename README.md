@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a Computer Science undergraduate at FAST NUCES, currently in my 4th semester. I have been working with C++ for over 3 years, with a strong command of Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA).
+I am a Computer Science undergraduate at FAST NUCES, currently in my 3rd year. I have been working with C++ for over 3 years, with a strong command of Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA).
 
 I have solid experience in full-stack web development using modern technologies, including React and Next.js for frontend development and Node.js for backend development. I also have strong proficiency in JavaScript and building scalable and secure web applications.
 
@@ -48,6 +48,7 @@ Currently, I am deeply interested in learning and building LLM-based systems and
 
 | | Project | Stack | Status |
 |---|---|---|---|
+| 🎰 | **[Organizational RAG](https://github.com/mubeen-ahmer/organization-rag)** - A production-style RAG backend for Verano Apparel Ltd. that answers questions over both unstructured documents and structured sales/inventory data — routing each question to the right engine automatically. Ships as a FastAPI service, ready to be consumed by a client. | python | ✅ Done |
 | 📔 | **[Marking System](https://github.com/mubeen-ahmer/marking-portal)** - A full-stack academic platform with separate portals for Students, Teachers, and Admins — featuring online quizzes with anti-cheat protection, result publishing, and a shared resource library. | React · PostgreSQL | ✅ Done |
 | 💻 | **[NEXUS OS](https://github.com/mubeen-ahmer/NEXUS-OS-Operating-System-Simulator)** - A Linux-based OS simulator written in C++ that demonstrates core operating system concepts through real process management, IPC, scheduling, and synchronization | C++ . shell . C | ✅ Done |
 | 🕹️ | **[Atari Breakout — x86 Assembly Game](https://github.com/mubeen-ahmer/Atari-Breakout-x86-Assembly)** - A fully playable Atari Breakout arcade game written in x86 Assembly, running in real-mode DOS — no OS APIs, no libraries, direct hardware access only. | x86 Assembly | ✅ Done |
@@ -98,7 +99,7 @@ Currently, I am deeply interested in learning and building LLM-based systems and
 ## Currently
 
 ```
-4th Semester  ·  FAST NUCES CFD  ·  Pakistan
+3rd Year  ·  FAST NUCES CFD  ·  Pakistan
 ```
 
 ---
